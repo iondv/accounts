@@ -18,10 +18,10 @@
   "homepage": "https://iondv.com",
   "version": "2.0.0",
   "dependencies": {
-    "@iondv/accounts-contracts": "iondv/accounts-contracts#semver:^2.0.0",
-    "@iondv/auth-contracts": "iondv/auth-contracts#semver:^2.0.0",
-    "@iondv/i18n": "iondv/i18n#semver:^0.0.1",
-    "@iondv/meta-model-contracts": "iondv/meta-model-contracts#semver:^2.0.3",
+    "@iondv/accounts-contracts": "iondv/accounts-contracts#main",
+    "@iondv/auth-contracts": "iondv/auth-contracts#main",
+    "@iondv/i18n": "iondv/i18n#main",
+    "@iondv/meta-model-contracts": "iondv/meta-model-contracts#main",
     "clone": "^2.1.2",
     "password-hash-and-salt": "^0.1.4"
   }
